@@ -1,6 +1,0 @@
-[submodule "sillasnet-f"]
-	path = sillasnet-f
-	url = https://github.com/SHmatthieu/sillasnet-f
-[submodule "sillasnet-b"]
-	path = sillasnet-b
-	url = https://github.com/SHmatthieu/sillasnet-b
